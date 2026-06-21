@@ -1,0 +1,10 @@
+*,::before,::after{box-sizing:border-box}
+html{word-break:break-word;tab-size:4;line-height:1.5;cursor:default;-webkit-text-size-adjust:100%}
+body{margin:0}
+main{display:block}
+a{background-color:transparent}
+table{border-collapse:collapse}
+button,input,select{margin:0}
+button,[type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button}
+textarea{overflow:auto;margin:0;resize:vertical}
+[hidden]{display:none}
